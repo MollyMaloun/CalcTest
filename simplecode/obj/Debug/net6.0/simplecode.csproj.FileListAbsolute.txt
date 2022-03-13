@@ -1,0 +1,15 @@
+C:\Users\molly\C#\simplecode\simplecode\obj\Debug\net6.0\simplecode.csproj.AssemblyReference.cache
+C:\Users\molly\C#\simplecode\simplecode\obj\Debug\net6.0\simplecode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molly\C#\simplecode\simplecode\obj\Debug\net6.0\simplecode.AssemblyInfoInputs.cache
+C:\Users\molly\C#\simplecode\simplecode\obj\Debug\net6.0\simplecode.AssemblyInfo.cs
+C:\Users\molly\C#\simplecode\simplecode\obj\Debug\net6.0\simplecode.csproj.CoreCompileInputs.cache
+C:\Users\molly\C#\simplecode\simplecode\bin\Debug\net6.0\simplecode.exe
+C:\Users\molly\C#\simplecode\simplecode\bin\Debug\net6.0\simplecode.deps.json
+C:\Users\molly\C#\simplecode\simplecode\bin\Debug\net6.0\simplecode.runtimeconfig.json
+C:\Users\molly\C#\simplecode\simplecode\bin\Debug\net6.0\simplecode.dll
+C:\Users\molly\C#\simplecode\simplecode\bin\Debug\net6.0\simplecode.pdb
+C:\Users\molly\C#\simplecode\simplecode\obj\Debug\net6.0\simplecode.dll
+C:\Users\molly\C#\simplecode\simplecode\obj\Debug\net6.0\refint\simplecode.dll
+C:\Users\molly\C#\simplecode\simplecode\obj\Debug\net6.0\simplecode.pdb
+C:\Users\molly\C#\simplecode\simplecode\obj\Debug\net6.0\simplecode.genruntimeconfig.cache
+C:\Users\molly\C#\simplecode\simplecode\obj\Debug\net6.0\ref\simplecode.dll
